@@ -1,0 +1,1 @@
+web : daphne -p 8000 django_websocket.asgi:application
